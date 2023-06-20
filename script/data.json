@@ -1,0 +1,142 @@
+[
+    {
+        "type": "Mountain",
+        "description": "SPK. Color negro con rosa. Cuadro de aluminio. Rodado 29",
+        "price": 149999,
+        "available": true,
+        "source": "images/mountain1.jpg"
+    },
+    {
+        "type": "Mountain",
+        "description": "FIREBIRD. Color turquesa con naranja. Cuadro de aluminio. Rodado 26",
+        "price": 169999,
+        "available": true,
+        "source": "images/mountain2.jpg"
+    },
+    {
+        "type": "Mountain",
+        "description": "BAMBÚ. Color verde. Cuadro de madera de bambú. Rodado 29",
+        "price": 99000,
+        "available": true,
+        "source": "images/mountain3.jpg"
+    },
+    {
+        "type": "Mountain",
+        "description": "SFO. Color Naranja con amarillo. Cuadro de acero. Rodado 29",
+        "price": 180000,
+        "available": true,
+        "source": "images/mountain4.jpg"
+    },
+    {
+        "type": "Mountain",
+        "description": "BICIK. Color Negro con rojo . Cuadro de aluminio. Rodado 29",
+        "price": 165000,
+        "available": true,
+        "source": "images/mountain5.jpg"
+    },
+    {
+        "type": "Carreras",
+        "description": "SPK. Color negro con azul. Cuadro de fibra de carbono. Rodado 26",
+        "price": 230000,
+        "available": true,
+        "source": "images/carreras1.jpg"
+    },
+    {
+        "type": "Carreras",
+        "description": "BMC. Color negro con rojo. Cuadro de fibra de carbono. Rodado 29",
+        "price": 200000,
+        "available": true,
+        "source": "images/carreras2.jpg"
+    },
+    {
+        "type": "Carreras",
+        "description": "SPECIALIZED. Color naranja con negro. Cuadro de fibra de carbono. Rodado 29",
+        "price": 215000,
+        "available": false,
+        "source": "images/carreras3.jpg"
+    },
+    {
+        "type": "Carreras",
+        "description": "TORINO. Color verde oscuro. Cuadro de metal. Rodado 26",
+        "price": 100000,
+        "available": true,
+        "source": "images/carreras4"
+    },
+    {
+        "type": "Carreras",
+        "description": "FIREBIKE. Color negro con blanco. Cuadro de aluminio. Rodado 26",
+        "price": 85000,
+        "available": true,
+        "source": "images/carreras5.jpg"
+    },
+    {
+        "type": "Paseo",
+        "description": "CALI. Color plateado oscuro. Cuadro de metal. Rodado 26",
+        "price": 79000,
+        "available": true,
+        "source": "images/paseo1.jpg"
+    },
+    {
+        "type": "Paseo",
+        "description": "SCOTT. Color blanco con turquesa. Cuadro metálico. Rodado 26",
+        "price": 50000,
+        "available": true,
+        "source": "images/paseo2.jpg"
+    },
+    {
+        "type": "Paseo",
+        "description": "BMX. Color Negro carbón. Cuadro metálico. Rodado 29",
+        "price": 52000,
+        "available": true,
+        "source": "images/paseo3.jpg"
+    },
+    {
+        "type": "Paseo",
+        "description": "BAMBÚ. Color verde con marrón. Cuadro de Bambú. Rodado 26",
+        "price": 59000,
+        "available": true,
+        "source": "images/paseo4.jpg"
+    },
+    {
+        "type": "Paseo",
+        "description": "VENZO. Color Blanco nieve. Cuadro metálico. Rodado 26",
+        "price": 56000,
+        "available": false,
+        "source": "images/paseo5.jpg"
+    },
+    {
+        "type": "Eléctricas",
+        "description": "CYBER. Color Naranja con negro. Cuadro metálico. Rodado 29. Velocidad máxima 70km",
+        "price": 310000,
+        "available": true,
+        "source": "images/electrica1.jpg"
+    },
+    {
+        "type": "Eléctricas",
+        "description": "LOTO. Color Negro con naranja. Cuadro de aluminio. Rodado 26. Velocidad Máxima 80km",
+        "price": 400000,
+        "available": true,
+        "source": "images/elelctrica2.jpg"
+    },
+    {
+        "type": "Eléctricas",
+        "description": "SAMSUNG. Color negro mate. Cuadro de aluminio. Rodado 26. Velocidad máxima 60km",
+        "price": 260000,
+        "available": false,
+        "source": "images/electrica3.jpg"
+    },
+    {
+        "type": "Eléctricas",
+        "description": "MONSTER. Color negro mate. Cuadro de fibra de carbono. Rodado 29. Velocidad máxima",
+        "price": 1100000,
+        "available": true,
+        "source": "images/electrica4.jpg"
+    },
+    {
+        "type": "Eléctricas",
+        "description": "MONSTER 2.0. Color verde militar con naranja. Cuadro fibra de carbono. Rodado 29. Velocidad máxima 100km",
+        "price": 900000,
+        "available": true,
+        "source": "images/electrica5.jpg"
+    }
+]
