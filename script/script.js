@@ -83,7 +83,7 @@ function takeUserData() {
 function updateOrder(clean) {
     if (clean === "clean") {orderList.innerHTML = ""};
     order = [];
-    form.innerHTML = '<input type="hidden" name="_next" value="https://rafafloresok.github.io/ch-javascript/"><input type="hidden" name="_captcha" value="false">'; 
+    form.innerHTML = '<input type="hidden" name="_next" value="https://joaquin848.github.io/Bicimania/"><input type="hidden" name="_captcha" value="false">'; 
     let listItems = document.querySelectorAll(".list-group-item");
     let prices = [];
     listItems.forEach((el, index) => {
